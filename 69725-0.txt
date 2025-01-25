@@ -1,25 +1,4 @@
-﻿The Project Gutenberg eBook of Elementary woodworking, by Edwin W.
-Foster
-
-
-Title: Elementary woodworking
-
-Author: Edwin W. Foster
-
-Release Date: January 6, 2023 [eBook #69725]
-
-Language: English
-
-Produced by: Peter Becker and the Online Distributed Proofreading Team
-             at https://www.pgdp.net (This file was produced from images
-             generously made available by The Internet Archive)
-
-*** START OF THE PROJECT GUTENBERG EBOOK ELEMENTARY WOODWORKING ***
-
-
-
-
-
+*** START OF THE PROJECT GUTENBERG EBOOK 69725 ***
 
 [Illustration: “Grizzly Giant,” a Big Tree in Mariposa Grove, California]
 
@@ -2645,6 +2624,4 @@ INDEX
 
   Working face, 37
 
-
-*** END OF THE PROJECT GUTENBERG EBOOK ELEMENTARY WOODWORKING ***
-
+*** END OF THE PROJECT GUTENBERG EBOOK 69725 ***
